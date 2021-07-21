@@ -1,7 +1,7 @@
-<!--Łukasz Majka-->
+<!--lukaszmajkadev-->
 
 <h1><a href="https://emoji.gg/emoji/8930-earlydev"><img src="https://emoji.gg/assets/emoji/8930-earlydev.png" width="24px" height="24px" alt="earlydev"></a> Łukasz Majka</h1>
-<h2><a href="https://emoji.gg/emoji/6889-blob-holding-discord"><img src="https://emoji.gg/assets/emoji/6889-blob-holding-discord.gif" width="24px" height="24px" alt="blob_holding_discord"></a> Łukasz Majka#0001<br><br><a href="https://emoji.gg/emoji/9027_blobmail"><img src="https://emoji.gg/assets/emoji/9027_blobmail.png" width="24px" height="24px" alt="blobmail"></a> kontakt@lmdev.pl<br><br><a href="https://emoji.gg/emoji/9027_blobmail"><img src="https://emoji.gg/assets/emoji/9027_blobmail.png" width="24px" height="24px" alt="blobmail"></a> lukaszmajka@lmdev.pl</h2>
+<h3><a href="https://emoji.gg/emoji/6889-blob-holding-discord"><img src="https://emoji.gg/assets/emoji/6889-blob-holding-discord.gif" width="24px" height="24px" alt="blob_holding_discord"></a> Łukasz Majka#0001<br><br> <a href="https://emoji.gg/emoji/8769-microsoftedge"><img src="https://emoji.gg/assets/emoji/8769-microsoftedge.png" width="24px" height="24px" alt="MicrosoftEdge"></a> https://lukaszmajka.dev/<br><br><a href="https://emoji.gg/emoji/9027_blobmail"><img src="https://emoji.gg/assets/emoji/9027_blobmail.png" width="24px" height="24px" alt="blobmail"></a> kontakt@lmdev.pl<br><br><a href="https://emoji.gg/emoji/9027_blobmail"><img src="https://emoji.gg/assets/emoji/9027_blobmail.png" width="24px" height="24px" alt="blobmail"></a> lukaszmajka@lmdev.pl</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=lukaszmajkadev&show_icons=false&include_all_commits&theme=dark"/>
 <p align="center">
@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/oracle-white.svg?&style=for-the-badge&logo=oracle&logoColor=000000"/>
   </p>
   
-<!--lukaszmajkadev/lukaszmajkadev-->
+<!--lukaszmajkadev/README.md-->
