@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/oracle-white.svg?&style=for-the-badge&logo=oracle&logoColor=000000"/>
   </p>
   
-<!--lukaszmajkadev/Łukasz Majka-->
+<!--lukaszmajkadev/lukaszmajkadev-->
