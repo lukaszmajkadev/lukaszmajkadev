@@ -22,6 +22,11 @@
   </p>
   <br>
   <br>
+  <br>
+  <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-5/854432449915387915.png"/>
+  </p>
+  <br>
   
   <p align="center">
   <img src="https://img.shields.io/github/followers/lukaszmajkadev?style=social"/><br><img src="https://img.shields.io/twitch/status/lykasz_?style=social"/><br><img src="https://img.shields.io/twitter/follow/ukasz29934723?style=social"/><br><img src="https://img.shields.io/youtube/channel/subscribers/UCuBKKnmQ1Wiw7ZaZMSyeA9A?style=social"/>
